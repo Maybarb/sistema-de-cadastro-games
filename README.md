@@ -3,5 +3,5 @@
 >Status: Sistema em desenvolvimento
 
 ```
-Node.js
+Node app.js
 ```
