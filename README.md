@@ -3,5 +3,5 @@
 >Status: Sistema em desenvolvimento
 
 ```
-Install: VS Code
+Node.js
 ```
